@@ -1,0 +1,6 @@
+#ifndef __TEST_Z__INCLUDE
+#define __TEST_Z__INCLUDE
+
+#define TEST_VAR "Hello"
+
+#endif
